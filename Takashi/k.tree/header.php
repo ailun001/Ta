@@ -7,6 +7,7 @@ echo '
     <title>Plant A Tree</title>
     <meta name="description" content="This is the description">
     <link rel="stylesheet" href="'.$url.'styles.css" />
+	<link rel="stylesheet" href="slideshow.css" />
 	<script src="store.js" async></script>
 </head>
 <body>
