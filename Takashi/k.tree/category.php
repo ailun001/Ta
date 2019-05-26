@@ -31,6 +31,14 @@
                 <span class="shop-item-title">Hardwood</span>
                 <a href="category/hardwood.php"><img src="Images/hardwood7.png" alt="fdsf" width="300" height="300"></a>
             </div>
+			<div class="shop-item">
+                <span class="shop-item-title">Gardening tool</span>
+                <a href="tool.php"><img src="Images/gardening tools.png" alt="tools" width="300" height="300"></a>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Extra services</span>
+                <a href="service.php"><img src="Images/extra_service.png" alt="services" width="300" height="300"></a>
+            </div>
         </div>
     </section>
 
